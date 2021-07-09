@@ -65,6 +65,3 @@
 
 #### 3. 疊代階段
 持續做1、2步，直到達到停止( 收斂 )條件
-
-@author： [Mu-Ping](https://github.com/Mu-Ping)  
-@e-mail： k0326jim@gmail.com
